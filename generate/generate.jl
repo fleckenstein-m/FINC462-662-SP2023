@@ -52,19 +52,19 @@ md"""
 """
 
 # ╔═╡ 2bee2fc7-3322-457f-a835-028c80eaf059
-TITLE = "A Great Course"
+TITLE = "FINC 462/662 - Fixed Income Securities"
 
 # ╔═╡ a0057e4c-0bcf-4970-8a2b-0412ad5af510
-SUBTITLE = "Content and Code"
+SUBTITLE = "Prof. Matt Fleckenstein"
 
 # ╔═╡ 4be56e57-fea0-4fbe-9659-44bed594b1b2
-INSTITUTION = "University of Greatness"
+INSTITUTION = "University of Delaware"
 
 # ╔═╡ c9f17f9f-766a-4137-92c5-f8173561a7bc
-INSTITUTION_URL = "https://www.tinbergen.nl"
+INSTITUTION_URL = "https://www.udel.edu"
 
 # ╔═╡ ab7186a4-2287-41da-a939-70f142bfeacd
-TERM = "Spring 2022"
+TERM = "Spring 2023"
 
 # ╔═╡ a31d893d-2cde-4228-a506-6af013fe1f3e
 LOGO_FILE = "julia-logo.svg"
@@ -87,7 +87,7 @@ available at `https://username.github.io/YourPackage.jl/` then the pre-path shou
 
 # ╔═╡ 88e1e91d-0d48-42e0-b4ab-4866624fd745
 begin
-	PREPATH = "pluto-course-template"
+	PREPATH = "FINC462-662-SP2023"
 	@skip_as_script PREPATH = ""
 end
 
