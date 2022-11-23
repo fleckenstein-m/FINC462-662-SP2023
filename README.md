@@ -2,7 +2,7 @@
 
 Template for a course website based on https://computationalthinking.mit.edu/Spring21/
 
-#### see the [website this template generates](https://greimel.github.io/pluto-course-template)
+#### see the [website this template generates](https://fleckenstein-m.github.io/FINC462-662-SP2023)
 
 This is a fork of https://github.com/mitmath/18S191/pull/120 (by @fonsp). Changes:
 
