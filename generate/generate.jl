@@ -67,7 +67,7 @@ INSTITUTION_URL = "https://www.udel.edu"
 TERM = ""
 
 # ╔═╡ a31d893d-2cde-4228-a506-6af013fe1f3e
-LOGO_FILE = "UDMonogramCweb.svg"
+LOGO_FILE = "UDMonogramC.png"
 
 # ╔═╡ dbb5e02a-2485-4ada-98d1-cc24fd6fc418
 md"""
