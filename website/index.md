@@ -37,7 +37,7 @@ The Zoom link is: [https://udel.zoom.us/j/96822810680](https://udel.zoom.us/j/96
 
 
 # Course Webpage
-[https://fleckenstein-m.github.io/FINC462-662-SP2022/](https://fleckenstein-m.github.io/FINC462-662-SP2022/)
+[https://fleckenstein-m.github.io/FINC462-662-SP2023/](https://fleckenstein-m.github.io/FINC462-662-SP2023/)
 
 
 ## Canvas Page
