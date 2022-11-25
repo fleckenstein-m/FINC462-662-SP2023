@@ -25,10 +25,10 @@
 # Class Times
 
 |             | FINC-462 (Section 011)        | FINC-462/662 (Section 012)    |
-| --------    | ----------------------------  | ---------------------------   |
-| Day(s)      | Tue, Thu                      | Tue, Thu         |
-| Time        | 11.00am-12.15pm               | 3.30pm-4.45pm    |
-| Location    | Purnell Hall 324A             | Purnell Hall 327 |
+| --------    | :----------------------------:| :---------------------------: |
+| Day(s)      | Tue, Thu                      | Tue, Thu                      |
+| Time        | 11.00am-12.15pm               | 3.30pm-4.45pm                 |
+| Location    | Purnell Hall 324A             | Purnell Hall 327              |
 
 
 # Office Hours
