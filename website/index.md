@@ -3,9 +3,9 @@
 
 
 * **Instructor:** Matthias Fleckenstein, [mflecken@udel.edu](mailto:mflecken@udel.edu)
-* **Class Times:** Section 011 - Tue/Thu 11.00am-12:15pm; Section 012 - Tue/Thu 3.30pm-4:45pm;
+* **Class Times:** Section 011 - Tue/Thu 11.00am-12:15pm; Section 012 - Tue/Thu 3.30pm-4:45pm
 * **Class Location:** Section 011 - Purnell Hall, Room 324A; Section 012 - Purnell Hall, Room 327
-* **Office Hours:** Mondays, 8.00am - 10.00am, Zoom, [Link](https://udel.zoom.us/j/96361766005)
+* **Office Hours:** Mondays, 8.00am - 10.00am, [Zoom](https://udel.zoom.us/j/96361766005)
 
 @def mintoclevel=2 
 @def maxtoclevel=3
@@ -47,7 +47,7 @@ FINC 311 (Principles of Finance) and 314 (Investments) are prerequisites. A good
 
 ## Course Syllabus
 
-[Syllabus](./assets/syllabus.pdf)
+[Syllabus](./assets/FINC462-662_Syllabus_SP23.pdf)
 
 
 ## Course Materials
