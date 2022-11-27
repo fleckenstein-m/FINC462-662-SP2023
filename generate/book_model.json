@@ -1,5 +1,13 @@
 [
     {
-        "title": "Miscellaneous"
+        "title": "Miscellaneous",
+        "contents": [
+            {
+                "name": "Programming Preliminaries",
+                "notebook_path": "notebooks/basic_syntax.jl",
+                "video_id": "",
+                "preview_image_url": ""
+            }
+        ]
     }
 ]
