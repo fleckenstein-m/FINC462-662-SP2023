@@ -104,7 +104,8 @@ show_section_number = false
 
 # ╔═╡ 01a2336a-5c04-4d5a-bb0b-a9c704517dbf
 pages = [
-	(page = "/calendar/", title = "Calendar")
+	(page = "/calendar/", title = "Calendar"),
+	(page = "/lect01/", title = "Lecture 01")
 ]
 
 # ╔═╡ c0768146-5ea0-4736-94f8-2c1a2affa922
