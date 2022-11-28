@@ -1,3 +1,3 @@
 ## Lecture 01
 
-[Slides](/assets/lectures/lect01/20221125_Lect_00.pdf)                              |
+[Slides](/assets/lectures/lect01/lect01.html)                              |
