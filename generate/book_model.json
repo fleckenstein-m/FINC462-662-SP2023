@@ -3,8 +3,8 @@
         "title": "Miscellaneous",
         "contents": [
             {
-                "name": "Programming Preliminaries",
-                "notebook_path": "notebooks/basic_syntax.jl",
+                "name": "Additional Practice Problems",
+                "notebook_path": "notebooks/AddPracticeProblems.jl",
                 "video_id": "",
                 "preview_image_url": ""
             }

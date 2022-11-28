@@ -106,7 +106,8 @@ show_section_number = false
 pages = [
 	(page = "/calendar/", title = "Calendar"),
 	(page = "/lect01/", title = "Lecture 01"),
-	(page = "/lect02/", title = "Lecture 02")
+	(page = "/lect02/", title = "Lecture 02"),
+	(page = "/lect03/", title = "Lecture 03")
 ]
 
 # ╔═╡ c0768146-5ea0-4736-94f8-2c1a2affa922
