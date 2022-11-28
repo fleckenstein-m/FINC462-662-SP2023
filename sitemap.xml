@@ -8,6 +8,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>lect03/index.html</loc>
+    <lastmod>2022-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>index.html</loc>
     <lastmod>2022-11-28</lastmod>
     <changefreq>monthly</changefreq>
